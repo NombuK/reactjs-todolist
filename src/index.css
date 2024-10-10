@@ -19,7 +19,7 @@ button {
   display: flex;
   flex-direction: column;
   padding: 14px;
-  background: url("src\assets\ToDoList_React.jpg");
+  background: url("/src/assets/ToDoList_React.jpg");
   background-size: cover;
   gap: 14px;
 }
